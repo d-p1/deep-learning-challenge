@@ -14,7 +14,7 @@
 
 *Optimizing the Model*: 
 - In order to optimize the model , we dropped a different column this time :'SPECIAL_CONSIDERATIONS',
-- noticing this vaiable had a lesser impact on the result.
+- noticing this variable had a lesser impact on the result.
 - Focus on binning: 'APPLICATION_TYPE','CLASSIFICATION','ORGANIZATION' . This makes it easier for the predictive model to identify indicators of organizational success.
 
   
