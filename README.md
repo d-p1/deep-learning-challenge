@@ -1,7 +1,7 @@
-**Background**
-The nonprofit foundation Alphabet Soup wants a tool that can help it select the applicants for funding with the best chance of success in their ventures. With your knowledge of machine learning and neural networks, you’ll use the features in the provided dataset to create a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup.
+***Background:***
+  The nonprofit foundation Alphabet Soup wants a tool that can help it select the applicants for funding with the best chance of success in their ventures. With your knowledge of machine learning and neural networks, you’ll use the features in the provided dataset to create a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup.
 
-**Overview**
+**Overview:**
 Using deep learning techniques such as predictive models, our goal is to predict whether an Organization will succeed or not succeed. We use a CSV dataset provided by the Alphabet Soup's bussiness team, containing more that 34,000 organization they are funding, in which the predicive models will output a result(successful or not successfulP.
 
 **Results**
