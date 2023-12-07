@@ -13,7 +13,7 @@
  - 'EIN' and 'NAME' columns were both drop in the beginning due to its possible low impact on determining whether or not the organization would succeed. 
 
 *Optimizing the Model*: 
-- In order to optimize the model , we droped a different column this time :'SPECIAL_CONSIDERATIONS',
+- In order to optimize the model , we dropped a different column this time :'SPECIAL_CONSIDERATIONS',
 - noticing this vaiable had a lesser impact on the result.
 - Focus on binning: 'APPLICATION_TYPE','CLASSIFICATION','ORGANIZATION' . This makes it easier for the predictive model to identify indicators of organizational success.
 
